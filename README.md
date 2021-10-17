@@ -1,2 +1,2 @@
-# Personal_Dairy
+# Personal_Diary
 Skill_Test (Python + Django)
